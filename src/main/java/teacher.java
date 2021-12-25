@@ -6,6 +6,7 @@ public class teacher {
         System.out.println("分支第二次提交");
         System.out.println("push 更新远程仓库");
          System.out.println("pull 拉取远程仓库");
+          System.out.println("pull 没看到，重新来");
         
         
     }
