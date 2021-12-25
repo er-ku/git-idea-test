@@ -4,5 +4,6 @@ public class teacher {
         System.out.println("分支分支分支");
         System.out.println("master 修改");
         System.out.println("分支第二次提交");
+        System.out.println("push 更新远程仓库");
     }
 }
